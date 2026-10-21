@@ -51,7 +51,10 @@ $$
 G_{R,exp} = \frac{V_R}{V_e}
 $$
 
-avec $ V_R = V_e - V_C$
+avec 
+$$
+V_R = V_e - V_C
+$$
 
 Remarque: les déphasages expérimentaux sont lus sur l'oscilloscope. 
 
