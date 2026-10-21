@@ -14,7 +14,7 @@ $$
 $$
 avec 
 $$
-f_c = \frac{2\pi}{RC}
+f_c = \frac{1}{2\pi RC}
 $$ la frequence de coupure du circuit
 
 Le gain G quand a lui s'écrit:
@@ -48,8 +48,20 @@ Remarque: les déphasages expérimentaux sont lus sur l'oscilloscope.
 
 De plus, le gain en décibel $G_{dB}$ s'exprime de la manière suivante:
 $$
-G_{\mathrm{dB}} = 10\log_{10}(G)
+G_{\mathrm{dB}} = 20\log_{10}(G)
 $$
+
+## III. Résultats expérimentaux
+
+### Diagrammes de Bode
+
+![diagramme de Bode 1](figures_photos/diagramme_Bode1.png)
+
+![diagramme de Bode 2](figures_photos/diagramme_Bode2.png)
+
+### Montage expérimental
+
+![circuit RC](figures_photos/photo_circuit_RC.HEIC)
 
 ## Traitement des données
 
